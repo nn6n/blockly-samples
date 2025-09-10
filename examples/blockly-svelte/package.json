@@ -14,7 +14,7 @@
   },
   "type": "module",
   "dependencies": {
-    "sirv-cli": "^0.4.6"
+    "sirv-cli": "^3.0.0"
   },
   "scripts": {
     "audit": "npm audit fix",
