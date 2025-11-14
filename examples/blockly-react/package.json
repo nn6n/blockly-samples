@@ -5,7 +5,7 @@
   "dependencies": {
     "blockly": "^12.0.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react-dom": "^17.0.2",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
